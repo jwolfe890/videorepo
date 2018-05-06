@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  amount_due: 1
+  date_date: 2018-05-02 01:52:53
+  subscription_id: 1
+
+two:
+  amount_due: 1
+  date_date: 2018-05-02 01:52:53
+  subscription_id: 1

@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  pricing_plan_id: 1
+  hours: 1
+  start: 2018-05-02 01:53:51
+  end: 2018-05-02 01:53:51
+
+two:
+  user_id: 1
+  pricing_plan_id: 1
+  hours: 1
+  start: 2018-05-02 01:53:51
+  end: 2018-05-02 01:53:51
